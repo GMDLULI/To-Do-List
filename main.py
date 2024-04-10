@@ -3,4 +3,5 @@ from Application import *
 def main():
     application()
 
-main()
+if __name__ == "__main__":
+    main()
